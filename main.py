@@ -1,4 +1,4 @@
- #16:17
+ #16:17-23:17
 with open("melyseg.txt") as file:
     lista = [int(i) for i in file.readlines()]
 
